@@ -10,3 +10,4 @@ AID,0x0B,"AssistNow Aiding Messages: Ephemeris, Almanac, other A-GPS data input"
 TIM,0x0D,"Timing Messages: Time Pulse Output, Time Mark Results"
 ESF,0x10,External Sensor Fusion Messages: External Sensor Measurements and Status Information
 MGA,0x13,Multiple GNSS Assistance Messages: Assistance data for various GNSS
+LOG,0x21,"Logging Messages: Log creation, deletion, info and retrieval"
