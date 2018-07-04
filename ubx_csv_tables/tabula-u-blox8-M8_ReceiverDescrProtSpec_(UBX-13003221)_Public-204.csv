@@ -1,0 +1,5 @@
+Byte Offset,Number,Scaling,Name,Unit,Description
+"",Format,,,,
+12,U2,0.01,hDOP,-,Horizontal DOP
+14,U2,0.01,nDOP,-,Northing DOP
+16,U2,0.01,eDOP,-,Easting DOP

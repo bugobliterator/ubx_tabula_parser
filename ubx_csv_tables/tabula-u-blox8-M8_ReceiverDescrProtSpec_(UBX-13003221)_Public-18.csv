@@ -1,0 +1,3 @@
+Byte Offset,Number,Scaling,Name,Unit,Description
+"",Format,,,,
+4,U1[64],-,data,-,assistance data

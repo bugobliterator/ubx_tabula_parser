@@ -1,0 +1,3 @@
+Byte Offset,Number,Scaling,Name,Unit,Description
+"",Format,,,,
+24,U4,-,vAcc,mm,Vertical accuracy estimate
